@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## A React Native Developer 
+#### A React Native Developer 
 
-# Thia is my Portofolio and my Project that i have done
+Thia is my Portofolio and my Project that i have done
 
 - 📫 How to reach me: 
 Email: **adninqasifa@gmail.com** 
