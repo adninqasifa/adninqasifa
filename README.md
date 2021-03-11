@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50">
                                                                                                                                    
 </p>
+
+Please Give a Star ⭐️ if you like My Project
