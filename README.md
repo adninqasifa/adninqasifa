@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: 
 
-Email: **adninqasifa@gmail.com** 
+    Email: **adninqasifa@gmail.com** 
 
-Linkedin: **https://www.linkedin.com/in/adninqasifa/**
+    Linkedin: **https://www.linkedin.com/in/adninqasifa/**
+
+#### Language and Tools
+
+<p float="left">
+  
+<img src=""https://reactnative.dev/img/header_logo.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
+                                                                                                                                   
+</p>
