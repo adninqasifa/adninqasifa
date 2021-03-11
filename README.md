@@ -27,10 +27,16 @@ Here are some ideas to get you started:
 
 <p float="left">
   
-<img src="https://reactnative.dev/img/header_logo.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw05YbV7P_yGU3gizOSSH0Mv&ust=1615544359742000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiyv_CBqO8CFQAAAAAdAAAAABAD" width="50" height="50">
+<img src="https://1.bp.blogspot.com/-K9Cn7gD4Hzo/YEn1ZHifb5I/AAAAAAAABkE/H4oQhCq_f0UKZ8HtdqcqunVi2kkjp82WgCLcBGAsYHQ/s320/reactnative.png" width="50" height="50">
+<img src="https://1.bp.blogspot.com/-AiACDITL6fU/YEn1Vy3WqlI/AAAAAAAABjg/BnPggyvYCy4OW6PlyNrKGoQ90onTebJ7ACLcBGAsYHQ/s320/android.png" width="50" height="50">
+<img src="https://1.bp.blogspot.com/-T_-7K6dThBE/YEn1YwwmWDI/AAAAAAAABkA/SbJg5RIY4Q4fUUatdciagYgG2V2CtwMHwCLcBGAsYHQ/s320/python.png" width="50" height="50">
+<img src="https://1.bp.blogspot.com/-oVAURdLNb7M/YEn1Yqv6wvI/AAAAAAAABj8/csVgaYwGpRUN9eaJXIliZp3MLSf_0gMXgCLcBGAsYHQ/s320/postman.png" width="50" height="50">
+<img src="https://1.bp.blogspot.com/-ZL7LbtnogkE/YEn1YSnb1yI/AAAAAAAABj4/YxyIplYlmUg0vBj-iZ05culZGZi7VvwtQCLcBGAsYHQ/s320/php.png" width="50" height="50">
+<img src="https://1.bp.blogspot.com/-CJd9B3EZ8GA/YEn1YG8LHWI/AAAAAAAABj0/5XFniFIR1bEElh3botCPcgbjLf1kILNWwCLcBGAsYHQ/s320/javascript.png" width="50" height="50">
+<img src="https://1.bp.blogspot.com/-cXBvHWgLNHk/YEn1X-Xc3vI/AAAAAAAABjw/-uMuWCQ6y8IpZdKsonlF-r8XX2g582_YgCLcBGAsYHQ/s320/java.png" width="50" height="50">
+<img src="https://1.bp.blogspot.com/-z7U7RY-mEJc/YEn1XEv4uFI/AAAAAAAABjk/wFPnekkSQdE5PIjti1tZf07VGwDgI_kNACLcBGAsYHQ/s320/html.png" width="50" height="50">
+<img src="https://1.bp.blogspot.com/-rQgBCO0KEv8/YEn1XQne_yI/AAAAAAAABjs/-jiug2xzSAA6ngbZs8Y13o52ePV1vSZRQCLcBGAsYHQ/s320/css.png" width="50" height="50">
+<img src="https://1.bp.blogspot.com/-xyXNv6YCgtQ/YEn1XWno2CI/AAAAAAAABjo/Cip93nQSl6I-fsLhsG-ugTAI9jmbp6RLgCLcBGAsYHQ/s320/atom-removebg-preview.png" width="50" height="50">
                                                                                                                                    
 </p>
 
