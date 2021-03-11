@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **React and Vue JS**
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: **adninqasifa@gmail.com** **https://www.linkedin.com/in/adninqasifa/**
+## A React Native Developer 
+
+# Thia is my Portofolio and my Project that i have done
+
+- 📫 How to reach me: 
+Email: **adninqasifa@gmail.com** 
+Linkedin: **https://www.linkedin.com/in/adninqasifa/**
