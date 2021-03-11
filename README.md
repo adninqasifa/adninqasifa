@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <img src="https://reactnative.dev/img/header_logo.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw05YbV7P_yGU3gizOSSH0Mv&ust=1615544359742000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiyv_CBqO8CFQAAAAAdAAAAABAD" width="50" height="50">
                                                                                                                                    
 </p>
 
